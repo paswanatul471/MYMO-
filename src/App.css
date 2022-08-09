@@ -41,7 +41,7 @@ body{
 
 .home-section {
   background: #4f1f2f;
-  height: 360px;
+  height: 420px;
 }
 
 .navbar-collapse collapse show {
@@ -99,10 +99,12 @@ body{
 }
 
 .homePara {
-  font-size: 34px;
+  font-size: 3rem;
   font-weight: bold;
   color: #cfa097;
+  text-align: initial;
 }
+
 
 @media (max-width: 768px) {
   .homePara {
@@ -118,7 +120,7 @@ body{
 }
 
 .home-img {
-  width: 50%;
+  width: 61%;
 }
 
 @media (max-width:700px) {
@@ -433,11 +435,11 @@ body{
   margin: 8px 0;
   font-weight: bolder
 }
-@media (min-width:1023px){
+/* @media (min-width:1023px){
   .homePara {
      margin-left: 7rem;
   }
-}
+} */
 /* .order-second{
   order: -1!important;
 }
