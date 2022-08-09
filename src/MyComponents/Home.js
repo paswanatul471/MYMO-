@@ -10,7 +10,7 @@ export default function Home() {
                         <div class="carousel-item active">
                             <div className='row slider-items'>
                                 <div className='col-md-6'>
-                                    <p className='homePara'>Shop && get upto 100% cashback by promoting brands that you love
+                                    <p className='homePara'>Shop & get upto 100% cashback by promoting brands that you love
                                     </p>
                                     <button className='navbar-btn'>Get your card</button>
                                 </div>
