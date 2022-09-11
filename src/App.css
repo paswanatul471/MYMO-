@@ -386,7 +386,7 @@ body{
   list-style: none;
   padding: 0 10px 0 10px;
   display: inline-block;
-  border-right: 1px solid #ffffff70;
+  /* border-right: 1px solid #ffffff70; */
   line-height: 13px;
   color: white;
 }
