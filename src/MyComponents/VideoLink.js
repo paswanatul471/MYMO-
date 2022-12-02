@@ -155,7 +155,7 @@ export default function VideoLink() {
                         <div className='col-12'>
                             <ul>
                                 <li>
-                                    <p>Follow us on<i className="fa fa-instagram my-3"></i></p>
+                                    <p>Follow us on<i className="fa fa-instagram my-3 pl-3"></i></p>
                                 </li>
                                 <li>
                                     <button>Contact us</button>
