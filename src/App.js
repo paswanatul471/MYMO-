@@ -8,8 +8,8 @@ import Brands from './Brands';
 import FAQs from './FAQs';
 import Home from './MyComponents/Home';
 import Registered from './Registered';
-import NewsItems from "./NewsItems";
-import News from "./News";
+// import NewsItems from "./NewsItems";
+// import News from "./News";
 import VideoLink from "./MyComponents/VideoLink";
 
 export default function App() {
