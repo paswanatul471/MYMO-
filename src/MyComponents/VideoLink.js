@@ -28,14 +28,14 @@ export default function VideoLink() {
                         </div>
                         <div className='col-12 col-md-4 mt-4 mt-md-0'>
                             <div className='readytomymoparent'>
-                                <img src='https://static.momspresso.com/mymo/post-new.png' />
+                                <img src='https://static.momspresso.com/mymo/post-new.png'alt='please wait' />
                                 <div className='mt-2 md-mt-3'></div>
                                 <div className="innerParent"><div className="title">Shop</div><span>Brands of your choice with the exclusive MyMo card</span></div>
                             </div>
                         </div>
                         <div className='col-12 col-md-4 mt-4 mt-md-0'>
                             <div className='readytomymoparent'>
-                                <img src='https://static.momspresso.com/mymo/save-new.png' />
+                                <img src='https://static.momspresso.com/mymo/save-new.png' alt='please wait'/>
                                 <div className='mt-2 md-mt-3'></div>
                                 <div ><div class="title">Shop</div><span>Brands of your choice with the exclusive MyMo card</span></div>
                             </div>
@@ -68,7 +68,7 @@ export default function VideoLink() {
                         </div>
                     </div>
                     <div className='col-12 col-md-7 order-first order-sm-last'>
-                        <img className='whyMyMoImg' src='https://static.momspresso.com/mymo/why-mymo-new.png' />
+                        <img className='whyMyMoImg' src='https://static.momspresso.com/mymo/why-mymo-new.png'alt='please wait' />
                     </div>
                 </div>
                 <div className='whyMymoBottom-text'>Backed by Momspresso & MyMoney.<br />
@@ -89,16 +89,16 @@ export default function VideoLink() {
                                 Download the app to access amazing cashbacks on your <br /> favourite brands.
                             </div>
                             <div className='appStore'>
-                                <a href='#'>
-                                    <img src='https://static.momspresso.com/assets/app-store.png' />
+                                <a href='/'>
+                                    <img src='https://static.momspresso.com/assets/app-store.png' alt='please wait'/>
                                 </a>
-                                <a href='#'>
-                                    <img src='https://static.momspresso.com/assets/playstrore.png' />
+                                <a href='/'>
+                                    <img src='https://static.momspresso.com/assets/playstrore.png'alt='please wait' />
                                 </a>
                             </div>
                         </div>
                         <div className='col-12 col-md-6'>
-                            <img className='mymoApp-img' src='https://static.momspresso.com/mymo/mymo-registration-new.png?tr=w-450' />
+                            <img className='mymoApp-img' src='https://static.momspresso.com/mymo/mymo-registration-new.png?tr=w-450' alt='please wait'/>
                         </div>
                     </div>
                 </div>
@@ -107,7 +107,7 @@ export default function VideoLink() {
             <div className="topHeadingClrParent"><div class="heading">Brands On MyMo</div></div>
             <div className='mt-4'>Choose brands you use, love and admire!</div>
             <div className='container'>
-                <img src='https://static.momspresso.com/mymo/brands-Logos-updated-new.jpg' className='w-100 mt-5 pt-5' />
+                <img src='https://static.momspresso.com/mymo/brands-Logos-updated-new.jpg' className='w-100 mt-5 pt-5'alt='please wait' />
             </div>
             <div className='container'>
                 <div className="accordion" id="accordionExample">
@@ -161,10 +161,10 @@ export default function VideoLink() {
                                     <button>Contact us</button>
                                 </li>
                                 <li>
-                                    <a href=''>Tearm of use</a>
+                                    <a href='/'>Tearm of use</a>
                                 </li>
                                 <li>
-                                    <a href=''>Privacy Policy</a>
+                                    <a href='/'>Privacy Policy</a>
                                 </li>
                             </ul>
                         </div>

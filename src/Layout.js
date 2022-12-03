@@ -4,7 +4,7 @@ const Layout = () => {
     <>
       <nav className="navbar navbar-expand-lg nav-bar-clr">
         <div className="container">
-          <a className="navbar-brand" href="/"><img src='https://static.momspresso.com/mymo/mymo-logo2.jpg'></img></a>
+          <a className="navbar-brand" href="/"><img src='https://static.momspresso.com/mymo/mymo-logo2.jpg' alt="please wait"/></a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>
