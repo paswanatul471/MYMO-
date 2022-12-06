@@ -442,12 +442,7 @@ body{
  /* .order-second{
   order: -1!important;
 }
-@media (max-width: 576px)
-{
-  .order-sm-last{
-    order: 6!important;
-  }
-}  */
+*/
 @media (m-width:922px){
   .homePara{
     font-size: 2.2rem;
