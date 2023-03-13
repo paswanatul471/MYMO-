@@ -117,6 +117,14 @@ body{
   margin: 0 1rem;
   text-decoration: none;
 }
+.navbar-item:hover{
+  background-color: #300b0b;
+  color: white;
+  border: 1px solid #300b0b;
+  padding: 3px 7px;
+  border-radius: 1rem;
+  /* margin: 0 5px; */
+}
 
 .home-img {
   width: 61%;
